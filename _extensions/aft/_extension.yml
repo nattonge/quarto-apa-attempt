@@ -44,4 +44,4 @@ contributes:
       toc: true
       theme: custom.scss
       # Use a CSL file to style (https://www.zotero.org/styles/)
-      csl: https://www.zotero.org/styles/journal-of-institutional-and-theoretical-economics
+      csl: https://www.zotero.org/styles/apa
