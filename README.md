@@ -35,7 +35,7 @@ or in your document yaml
 ```yaml
 format:
   pdf: default
-  aft-pdf:
+  apa-attempt-pdf:
     keep-tex: true    
 ```
 
