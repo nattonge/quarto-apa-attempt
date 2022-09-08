@@ -1,5 +1,5 @@
-title: Article Format Template
-author: Christophe Dervieux
+title: APA7
+author: Natasha Tonge
 version: 0.1.0
 contributes:
   formats:
@@ -36,7 +36,7 @@ contributes:
         - "partials/_authors.tex"
       format-resources:
         # Add here the resources required for the PDF rendering
-        - aft.cls
+        - apa7.cls
         - te.bst
     html:
       # define default configuration for the html version of your format
