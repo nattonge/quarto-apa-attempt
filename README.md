@@ -2,7 +2,7 @@
 
 <!-- ALL THE BELOW SHOULD BE IN YOUR README -->
 
-This is a Quarto template that assists you in creating a manuscript for APA journals. You can learn more about ...
+This is a Quarto template that assists you in creating a manuscript for APA journals. I have never made a Quarto template before! This is mainly for personal use and so troubleshooting is limited; however, others are free to use - just let me know if it was helpful @na_tonge.
 
 ## Creating a New Article
 
