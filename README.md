@@ -9,7 +9,7 @@ This is a Quarto template that assists you in creating a manuscript for APA jour
 You can use this as a template to create an article for an APA journal. To do this, use the following command:
 
 ```bash
-quarto use template nattonge/apa-attempt
+quarto use template nattonge/quarto-apa-attempt
 ```
 
 This will install the extension and create an example qmd file and bibiography that you can use as a starting place for your article.
@@ -19,7 +19,7 @@ This will install the extension and create an example qmd file and bibiography t
 You may also use this format with an existing Quarto project or document. From the quarto project or document directory, run the following command to install this format:
 
 ```bash
-quarto install extension nattonge/apa-attempt
+quarto install extension nattonge/quarto-apa-attempt
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ quarto install extension nattonge/apa-attempt
 To use the format, you can use the format names `apa-attempt-pdf` and `apa-attempt-html`. For example:
 
 ```bash
-quarto render article.qmd --to apa-attempt-pdf
+quarto render article.qmd --to quarto-apa-attempt-pdf
 ```
 
 or in your document yaml
